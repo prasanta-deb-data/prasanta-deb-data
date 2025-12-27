@@ -4,7 +4,7 @@ I am a Data Analyst with industry experience in environmental and air quality mo
 Currently, I am working at Envea India Private Limited as a CSD Engineer since 15 June 2022.
 
 I am responsible for operations, data monitoring, and quality assurance of Continuous Ambient Air Quality Monitoring Systems (CAAQMS),
-including the Tarapur and Silchar-PCBA stations.
+including the Tarapur,Silchar-PCBA CAAQMS stations.
 
 Through my role, I work extensively with real-world environmental data, ensuring data accuracy, system reliability,
 and regulatory compliance. I am now transitioning my expertise toward data analytics, focusing on data cleaning,
