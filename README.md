@@ -23,7 +23,7 @@ analysis, visualization, and end-to-end data pipelines.
 - Git & GitHub
 
 📌 Featured Projects:
-- Amazon Sales Analysis (ETL + EDA + Power BI)
+- Silchar–Tarapur CAAQMS AQI
 - CAAQMS Air Quality Data Analysis
 - Meteorological Data Analysis
 
